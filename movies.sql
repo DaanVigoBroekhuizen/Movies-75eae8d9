@@ -1,6 +1,4 @@
-CREATE DATABASE filmslijst;
-
-USE `filmslijst`;
+USE `netland`;
 
 CREATE table `films` (
     volgnummer MEDIUMINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
